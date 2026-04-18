@@ -1,0 +1,4 @@
+numpy
+PyWavelets
+opencv-python
+seaborn
